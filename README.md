@@ -13,6 +13,6 @@ Look and feel of the app belongs to the primary colours of the two teams. White 
 
 Here is a screenshot of the app.
 
-![enter image description here](https://lh3.googleusercontent.com/-pFyOzPSrLXY/WjrE7pC6S_I/AAAAAAAADr4/7jxGFoYZbkEPvqSBPUW2kliHTiAH9kWiQCHMYCw/s0/Screenshot.jpeg "Screenshot.jpeg")
+![ElClasico App Screenshot](https://lh3.googleusercontent.com/-pFyOzPSrLXY/WjrE7pC6S_I/AAAAAAAADr4/7jxGFoYZbkEPvqSBPUW2kliHTiAH9kWiQCHMYCw/s0/Screenshot.jpeg "Screenshot.jpeg")
 
 
